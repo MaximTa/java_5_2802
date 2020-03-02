@@ -3,8 +3,8 @@ package ru.geekbrains.java;
 public class Main {
 
     public static void main(String[] args) {
+        //Задание5
         Cat cat = new Cat("Barsik");
-
         cat.jump(2);
         cat.swim(10);
         cat.run(300);
